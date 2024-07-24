@@ -1,6 +1,6 @@
 # Eglcr
-EGLCR-Stereo
-# EGLCR
+Eglcr
+# EGLCR: Eglcr: Edge Structure Guidance and Scale Adaptive Attention for Iterative Stereo Matching
 
 
 ## Demos
