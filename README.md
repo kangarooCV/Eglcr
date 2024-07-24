@@ -26,8 +26,4 @@ pip install tqdm
 pip install timm==0.5.4
 ```
 
-You can demo a trained model on pairs of images, run
-```
-conda activate EGLCR
-python demo.py --restore_ckpt ./checkpoint/pretrain.pth
-```
+
