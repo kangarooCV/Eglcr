@@ -25,5 +25,5 @@ pip install matplotlib
 pip install tqdm
 pip install timm==0.5.4
 ```
-
+Code will be available upon the acceptance of the paper.
 
